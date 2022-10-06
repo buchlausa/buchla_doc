@@ -1,5 +1,7 @@
 # Buchla Documentation
-This repo contains public documentation for Buchla products. It uses the [Docusaurus](https://docusaurus.io/docs#fast-track) site generator to generate a static website from [markdown](https://www.markdownguide.org/cheat-sheet/) documents.
+This repo contains the materials needed to edit and publish the public documentation for Buchla products. 
+It uses the [Docusaurus](https://docusaurus.io/docs#fast-track) site generator to generate a static website from [markdown](https://www.markdownguide.org/cheat-sheet/) documents. 
+The documentation is viewable on the [GitHub Pages site](https://buchlausa.github.io/buchla_doc/).
 
 # Installation
 Documentation for getting started with Docusaurus is at their website. Here's some specific instructions.
