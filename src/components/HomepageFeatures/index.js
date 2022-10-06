@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Steeped in History',
+    Svg: require('@site/static/img/slug.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Don Buchla created one of the first electronic music synthesizers. Don continued innovating for decades.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'A Unique Sound',
+    Svg: require('@site/static/img/slug.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Despite the vast mix of analog and digital sources, and a variety of compositionals tools, Buchla synthesizers are often immediately identifiable by their musical sound.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'An Endless Web of Options',
+    Svg: require('@site/static/img/slug.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Catering to the unique needs of indivual creative musicians, Buchla products often have a variety of ways to install, use, and modify to suit the drives of artists.
       </>
     ),
   },
