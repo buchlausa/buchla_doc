@@ -7,19 +7,19 @@ Documentation for getting started with Docusaurus is at their website. Here's so
 You'll need NodeJS and `npm` installed on your computer. There's several ways to do this. Here's a [few options](https://nodejs.org/en/download/package-manager/#macos). You can also follow [this recipe](https://gist.github.com/d2s/372b5943bce17b964a79) to use node version manager (`nvm`) which is the more future-proof way of installing NodeJS.
 
 
-Clone this repo, then navigate into the repository folder (e.g. `~/Documents/GitHub/buchla-docs`).
+Clone this repo, then run a command to install the nodeJS packages
 
 Run the command
 ```
-npm init docusaurus@latest my-website classic
+npm install
 ```
-
-This installs Docusaurus and initializes a website. Then:
+Then:
 ```
-cd my-website
 npm run start
 ```
-And visit the default tutorial website that is running locally at [http://localhost:3000/](http://localhost:3000/).
+will build the docs and launch a server. It should open your browser to the local site [http://localhost:3000/](http://localhost:3000/).
 
 # Deploy  
-Use the [Docusaurus guide](https://docusaurus.io/docs/deployment#deploying-to-github-pages) to deploy to GitHub Pages.
+If you clone this repo and push some changes, you'll need to publish or deploy the site to git hub pages. 
+
+Use the [Docusaurus guide](https://docusaurus.io/docs/deployment#deploying-to-github-pages) to learn how to deploy to GitHub Pages.
