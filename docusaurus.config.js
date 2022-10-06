@@ -9,7 +9,7 @@ const config = {
   title: 'Buchla Documentation',
   tagline: 'Learn how to use Buchla synthesizers, modules, software, and accessories.',
   url: 'https://buchlausa.github.io/', // Your website URL
-  baseUrl: '/buchla_doc',
+  baseUrl: '/buchla_doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
