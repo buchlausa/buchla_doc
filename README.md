@@ -25,3 +25,6 @@ will build the docs and launch a server. It should open your browser to the loca
 If you clone this repo and push some changes, you'll need to publish or deploy the site to git hub pages. 
 
 Use the [Docusaurus guide](https://docusaurus.io/docs/deployment#deploying-to-github-pages) to learn how to deploy to GitHub Pages.
+
+# Customize
+Here's a [nice tool](https://docusaurus.io/docs/styling-layout) for setting up the colors in CSS. 
