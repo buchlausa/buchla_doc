@@ -9,11 +9,11 @@ const config = {
   title: 'Buchla Documentation',
   tagline: 'Learn how to use Buchla synthesizers, modules, software, and accessories.',
   url: 'https://buchlausa.github.io/', // Your website URL
-  baseUrl: '/',
+  baseUrl: '/buchla_doc',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  trailingSlash: true,
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
