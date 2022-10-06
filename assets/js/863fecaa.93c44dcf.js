@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbuchla=self.webpackChunkbuchla||[]).push([[1607],{559:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/buchla_doc/blog/tags/docusaurus","allTagsPath":"/buchla_doc/blog/tags","count":4}')}}]);

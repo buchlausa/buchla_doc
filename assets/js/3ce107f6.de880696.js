@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbuchla=self.webpackChunkbuchla||[]).push([[2720],{9900:e=>{e.exports=JSON.parse('{"permalink":"/buchla_doc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbuchla=self.webpackChunkbuchla||[]).push([[6989],{532:l=>{l.exports=JSON.parse('{"permalink":"/buchla_doc/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
