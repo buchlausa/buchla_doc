@@ -8,8 +8,7 @@ sidebar_position: 1
 
 Find your product below and start learning
 
-* 200e
-* Music Easel
-* Easel Command
-* 200 Reissue
-* Program Manager Card
+* [200e](./category/the-200e-series-modules)
+* [200 Reissue](./category/the-200-series-reissue)
+* [Easel](./category/the-music-easel-and-modules)
+* [Program Manager Card](./category/program-manager-card)
