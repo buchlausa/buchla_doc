@@ -5,7 +5,7 @@ sidebar_position: 2
 ---
 # The Buchla 208 Easel Module
 
-The module is for use in boats and the Music Easel.
+The module is for use in boats and the Music Easel. It's really great!
 
 # Callouts
 
