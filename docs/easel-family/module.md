@@ -13,8 +13,20 @@ What is on it.
 
 # The Basic Idea
 
-Make music.
+Make music. It's really great to do.
 
 # Allen Strange's Original Manual
 
-Now you can use the card without the software.
+Now you can use the card without the software. Download the PDF [here](http://buchla.com)
+
+* Comprehensive
+* Health
+* Benefits
+
+I want **bold** text. this is different from *italics* [here] (this is a parenthetical aside)
+
+## Weasel
+
+The image
+
+![the famous weasel](/img/weaselrelax.gif)
