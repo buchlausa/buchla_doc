@@ -15,3 +15,7 @@ Diagram naming important parts
 ## Use
 
 Press the buttons
+
+## MIDI Implementation
+
+Use MIDI
