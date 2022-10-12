@@ -3,6 +3,10 @@ This repo contains the materials needed to edit and publish the public documenta
 It uses the [Docusaurus](https://docusaurus.io/docs#fast-track) site generator to generate a static website from [markdown](https://www.markdownguide.org/cheat-sheet/) documents. 
 The documentation is viewable on the [GitHub Pages site](https://buchlausa.github.io/buchla_doc/).
 
+# Writing Documentation
+* Best done with Atom, really. 
+* A nice Word converter is found [here](https://word2md.com/)
+
 # Installation
 Documentation for getting started with Docusaurus is at their website. Here's some specific instructions.
 
