@@ -8,7 +8,7 @@ The Buchla Program Manager provides an easy means to store and recall up to 48 u
 
 The Buchla Program Manager App allows you to create & edit virtually unlimited programs, share and store programs and banks to the Program Manager card via USB from a computer (OSX & Windows). The Program Manager card and app includes a number of factory programs that can be customized and also serve as the basis for new programs.
 
-![](buchla_doc/docs/static/img/pmmanual/pmman1-card.png)
+![](/static/img/pmmanual/pmman1-card.png)
 
 1. **NAVIGATION BUTTONS** - use to scroll through programs saved on the card (tip, to scroll quickly, after the initial button press, while holding, press and hold the other too)
 2. **RECALL BUTTON** - press to load the selected program
@@ -32,7 +32,7 @@ There are two main views in the application: "Program View" and "Bank View". Uti
 
 Upon launch, you will be presented with the "Program View".
 
-![](buchla_doc/docs/static/img/pmmanual/pmman2-software.png)
+![](/static/img/pmmanual/pmman2-software.png)
 
 Create, edit, save and share programs using the Buchla Program Manager App.
 
@@ -104,7 +104,7 @@ SLIDERS: Click and drag or with the slider handle selected, use the keyboard up 
 
 CV CONNECTIONS:Click a banana jack to activate it - it will glow red, and then click another banana jack to connect it to the first. Disconnect the same way. You can only connect inputs (black jacks) to outputs (colored jacks). Connections made have an additional control called, "depth", which is accessed via the DEPTH tab in the SIDE PANEL. Depth allows you to scale the effect of the connection as well as invert it, on a connection by connection basis.
 
-![](buchla_doc/docs/static/img/pmmanual/pmman3-cvconnections.png)
+![](/static/img/pmmanual/pmman3-cvconnections.png)
 
 Connections are listed, color matched to their correlating banana cable, labeled with the output and input connections. Adjust the slider to the desired effect. Note: when inverting signals, you may need to adjust the correlating parameter's offset slider to put in the expected range.
 
@@ -118,7 +118,7 @@ The SAVE PROGRAM button will turn red when there are unsaved changes to the Prog
 
 **BANK VIEW**
 
-![](buchla_doc/docs/static/img/pmmanual/pmman4-bankview.png)
+![](/static/img/pmmanual/pmman4-bankview.png)
 
 Banks are groups of up to 48 Programs (24 if using the legacy iProgramCard) that can be sent to the Program Manger card at once or by slot.
 
@@ -194,7 +194,7 @@ If you have a 208 made from 2013-2017 (pre-Revision 5 without the modification, 
 
  1. The easiest option is to just tape over the pin that was reassigned to the Local enable signal in order to get Local and Remote mode. Then simply live with the unpredictable results of the middle setting of your control switch.To do so, put a piece of Kapton tape over pin 10, shown below.
 
-![](buchla_doc/docs/static/img/pmmanual/pmman5-pin10.png)
+![](/static/img/pmmanual/pmman5-pin10.png)
 
 2.The other option is to modify your 208 according to the following document: [https://buchla.com/guides/iProgramCardBothModeUpdate.pdf](https://buchla.com/guides/iProgramCardBothModeUpdate.pdf)
 
