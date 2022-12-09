@@ -1,10 +1,10 @@
 # Buchla Documentation
-This repo contains the materials needed to edit and publish the public documentation for Buchla products. 
-It uses the [Docusaurus](https://docusaurus.io/docs#fast-track) site generator to generate a static website from [markdown](https://www.markdownguide.org/cheat-sheet/) documents. 
+This repo contains the materials needed to edit and publish the public documentation for Buchla products.
+It uses the [Docusaurus](https://docusaurus.io/docs#fast-track) site generator to generate a static website from [markdown](https://www.markdownguide.org/cheat-sheet/) documents.
 The documentation is viewable on the [GitHub Pages site](https://buchlausa.github.io/buchla_doc/).
 
 # Writing Documentation
-* Best done with Atom, really. 
+* Best done with Atom, really.
 * A nice Word converter is found [here](https://word2md.com/)
 
 # Installation
@@ -26,9 +26,14 @@ npm run start
 will build the docs and launch a server. It should open your browser to the local site [http://localhost:3000/](http://localhost:3000/).
 
 # Deploy  
-If you clone this repo and push some changes, you'll need to publish or deploy the site to git hub pages. 
+If you clone this repo and push some changes, you'll need to publish or deploy the site to git hub pages.
 
-Use the [Docusaurus guide](https://docusaurus.io/docs/deployment#deploying-to-github-pages) to learn how to deploy to GitHub Pages.
+Use the [Docusaurus guide](https://docusaurus.io/docs/deployment#deploying-to-github-pages) to learn how to deploy to GitHub Pages. You'll need to [setup SSH access for github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account), as that's the best way to securely publish from the Terminal.
+
+Then, you simply use the command 
+```
+USE_SSH=true yarn deploy
+```
 
 # Customize
-Here's a [nice tool](https://docusaurus.io/docs/styling-layout) for setting up the colors in CSS. 
+Here's a [nice tool](https://docusaurus.io/docs/styling-layout) for setting up the colors in CSS.
